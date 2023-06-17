@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WpfApp15\obj\Debug\WpfApp15.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WpfApp15\obj\Debug\WpfApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\WpfApp15\obj\Debug\View\MainWindow.g.cs
+C:\Users\user\source\repos\WpfApp15\obj\Debug\View\Window1.g.cs
+C:\Users\user\source\repos\WpfApp15\obj\Debug\View\Window2.g.cs
+C:\Users\user\source\repos\WpfApp15\obj\Debug\View\Window4.g.cs
+C:\Users\user\source\repos\WpfApp15\obj\Debug\View\Window3.g.cs
+C:\Users\user\source\repos\WpfApp15\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+C:\Users\user\source\repos\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref
